@@ -32,8 +32,8 @@ So, my internal web dashboard (`internal.example.com`) suddenly became unreachab
     ```
 
 - **Screenshots:**
-    - **Before fixing service reachability:** Screenshot showing that I couldn't connect using `telnet` or `curl`.
-    - **After fixing service reachability:** Screenshot showing successful connection after I fixed it.
+    - ![Before fixing service reachability](Images/fixing_service_reachability.png)
+    - ![After fixing service reachability](Images/After_fixing_service_reachability.png)
 
 ### 3. Trace the Issue – Possible Causes
 
