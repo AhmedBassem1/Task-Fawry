@@ -17,7 +17,7 @@ So, my internal web dashboard (`internal.example.com`) suddenly became unreachab
     ```
 
 - **Screenshots:**
-    - ![Before fixing DNS](images/after_fix_dns.png)
+    - ![Before fixing DNS](Images/after_fix_dns.png)
 
 ### 2. Diagnose Service Reachability
 
