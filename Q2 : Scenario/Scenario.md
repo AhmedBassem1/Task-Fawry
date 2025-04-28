@@ -17,7 +17,7 @@ So, my internal web dashboard (`internal.example.com`) suddenly became unreachab
     ```
 
 - **Screenshots:**
-    - ![](Images/WhatsApp Image 2025-04-28 at 10.44.57_ec7b91ad.jpg)
+    - ![Before fixing DNS](images/after_fix_dns.jpg)
 
 ### 2. Diagnose Service Reachability
 
