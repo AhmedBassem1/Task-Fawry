@@ -55,8 +55,7 @@ So, my internal web dashboard (`internal.example.com`) suddenly became unreachab
         ```
 
     - **Screenshots:**
-        - **Before adding to hosts:** Screenshot showing the DNS resolution issue ("host not found").
-        - **After adding to hosts:** Screenshot showing that the system can now ping `internal.example.com` successfully.
+        - ![After adding to hosts](Images/fter_adding_to_hosts.png)
 
 - **Fixing Network Connectivity Issues:**
     - I checked if there was a firewall blocking the connection and made sure the web service was listening on the right ports.
@@ -110,7 +109,7 @@ So, my internal web dashboard (`internal.example.com`) suddenly became unreachab
     ```bash
     sudo nmcli dev reload
     ```
-
+- ![](Images/welcome_to_nginx.png)
 ---
 
 ## Conclusion
