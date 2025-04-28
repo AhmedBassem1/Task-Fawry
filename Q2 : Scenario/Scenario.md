@@ -55,7 +55,7 @@ So, my internal web dashboard (`internal.example.com`) suddenly became unreachab
         ```
 
     - **Screenshots:**
-        - ![After adding to hosts](Images/fter_adding_to_hosts.png)
+        - ![After adding to hosts](Images/after_adding_to_hosts.png)
 
 - **Fixing Network Connectivity Issues:**
     - I checked if there was a firewall blocking the connection and made sure the web service was listening on the right ports.
